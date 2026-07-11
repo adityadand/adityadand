@@ -6,8 +6,9 @@
 
 <br/>
 
-![visitors](https://komarev.com/ghpvc/?username=adityadand&color=00ff9c&style=flat-square&label=INTRUSIONS+DETECTED)
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=ff00e5&label=SIGNAL&query=%24&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityadand&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=adityadand&color=00ff9c&style=flat-square&label=INTRUSIONS+DETECTED)
+![Signal](https://img.shields.io/badge/SIGNAL-STABLE-ff00e5?style=flat-square)
+![Arsenal](https://img.shields.io/badge/dynamic/json?color=00d9ff&label=ARSENAL&query=$.public_repos&url=https://api.github.com/users/adityadand&style=flat-square)
 
 </div>
 
