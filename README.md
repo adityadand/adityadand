@@ -146,10 +146,6 @@ Windows `.bat` arsenal for system recovery & automation.
 
 ## `0x05` // TELEMETRY
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adityadand&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF9C&icon_color=FF00E5&text_color=E0FFE0" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadand&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF9C&text_color=E0FFE0" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adityadand&hide_border=true&background=000000&ring=00FF9C&fire=FF00E5&currStreakLabel=00FF9C&sideLabels=E0FFE0&currStreakNum=E0FFE0&sideNums=E0FFE0&dates=6b6b6b" />
