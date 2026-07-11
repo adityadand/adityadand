@@ -1,89 +1,125 @@
 <div align="center">
 
-<!-- Glitch banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=900&color=00F0FF&background=0D0221&center=true&vCenter=true&width=750&lines=%3E+ADITYA+DAND;%3E+AI+ENGINEER+%2F%2F+AGENT+BUILDER;%3E+PYTHON+AUTOMATION+%2F%2F+LLMs;%3E+OPEN+SOURCE+%2F%2F+ALWAYS+SHIPPING" alt="Typing SVG" />
+![Neon Divider](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADITYA%20DAND&fontSize=55&fontColor=00FF9C&animation=twinkling&fontAlignY=38&desc=%3E%3E%20RUNNING%20ON%20PYTHON%20%2F%2F%20LLMs%20%2F%2F%20PURE%20CAFFEINE&descAlignY=58&descSize=18&descColor=FF00E5)
 
-![Neon Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2600&pause=800&color=00FF9C&background=000000&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+ADITYA_DAND.exe;%3E+AI+ENGINEER+%2F%2F+AGENT+BUILDER;%3E+AUTOMATION+%2F%2F+PYTHON+%2F%2F+LLMs;%3E+ACCESS+GRANTED+..." alt="Typing SVG" />
+
+<br/>
+
+![visitors](https://komarev.com/ghpvc/?username=adityadand&color=00ff9c&style=flat-square&label=INTRUSIONS+DETECTED)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=ff00e5&label=SIGNAL&query=%24&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadityadand&style=flat-square)
 
 </div>
 
 <div align="center">
 
+```
+ ▄▄▄       ▓█████▄  ██▓▄▄▄█████▓▓██   ██▓ ▄▄▄       ▓█████▄  ▄▄▄       ███▄    █ ▓█████▄
+▒████▄     ▒██▀ ██▌▓██▒▓  ██▒ ▓▒ ▒██  ██▒▒████▄     ▒██▀ ██▌▒████▄     ██ ▀█   █ ▒██▀ ██▌
+▒██  ▀█▄   ░██   █▌▒██▒▒ ▓██░ ▒░  ▒██ ██░▒██  ▀█▄   ░██   █▌▒██  ▀█▄  ▓██  ▀█ ██▒░██   █▌
+░██▄▄▄▄██  ░▓█▄   ▌░██░░ ▓██▓ ░   ░ ▐██▓░░██▄▄▄▄██  ░▓█▄   ▌░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█▄   ▌
+ ▓█   ▓██▒ ░▒████▓ ░██░  ▒██▒ ░   ░ ██▒▓░ ▓█   ▓██▒ ░▒████▓  ▓█   ▓██▒▒██░   ▓██░░▒████▓
+ ▒▒   ▓▒█░  ▒▒▓  ▒ ░▓    ▒ ░░      ██▒▒▒  ▒▒   ▓▒█░  ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒▓  ▒
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ```ansi
-┌──────────────────────────────────────────────┐
-│  root@neomumbai:~$ ./boot_sequence.sh          │
-│                                                │
-│  [ OK ] Loading identity...........  AdityaD  │
-│  [ OK ] Location....................  Neo Mumbai
-│  [ OK ] Role.........................  AI Engineer / Automation Dev
-│  [ OK ] Status.......................  ONLINE
-│  [ OK ] Mission......................  Ship practical AI & tools
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│ [SYSTEM BOOT LOG] ─────────────────────────────────│
+│                                                      │
+│  > mounting /dev/brain ................ OK          │
+│  > loading modules: [AI][LLM][AUTOMATION] .. OK      │
+│  > decrypting skillset ................ OK           │
+│  > firewall: PERSISTENCE_MODE .......... ENABLED     │
+│  > root access ......................... GRANTED     │
+│  > STATUS ............................. ONLINE       │
+│                                                      │
+└────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/UPTIME-24%2F7-FF00E5?style=for-the-badge&labelColor=0D0221" />
-  <img src="https://img.shields.io/badge/MODE-SHIPPING-FFD500?style=for-the-badge&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CLEARANCE-ROOT-FF00E5?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MODE-AUTONOMOUS-FFEA00?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/THREAT__LEVEL-SHIPPING-00D9FF?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-## 🧠 `> whoami`
+## `0x01` // IDENTITY.decrypt()
 
 ```yaml
-name:      Aditya Dand
-based_in:  Neo Mumbai [IN]
-focus:     AI Agents · LLMs · Python Automation · Windows System Tooling
-driven_by: Root-cause debugging & building things people actually use
+codename:   Aditya Dand
+class:      AI Engineer / Automation Architect
+directive:  Build practical AI that solves real-world problems
+core_loop:  find_root_cause() -> fix_it() -> automate_it() -> ship_it()
 ```
 
-I build practical AI systems and automation tools — from multi-agent LLM pipelines to
-low-level Windows driver fixes and Selenium-powered scraping/reporting bots. If it's broken,
-I want to know *why*, not just patch around it.
+> No fluff. No filler. I debug down to the driver level, automate the boring
+> parts out of existence, and ship things that actually work.
 
 ---
 
-## ⚙️ `> tech_arsenal`
+## `0x02` // NEURAL_STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,fastapi,docker,linux,git,github,vscode,mysql,postgres,sqlite&theme=dark" />
 </p>
 
+<div align="center">
+
+```diff
++ AI Agents            [████████████████████░░] ACTIVE
++ LLMs / Local Models   [██████████████████░░░░] ACTIVE
++ Python Automation     [███████████████████████] MAXED
++ Windows System Tools  [█████████████████░░░░░] ACTIVE
++ Open Source           [████████████████████░░] ACTIVE
+- Sleep Schedule        [███░░░░░░░░░░░░░░░░░░░░] CORRUPTED
+```
+
+</div>
+
 ---
 
-## 🚀 `> current_mission`
+## `0x03` // ACTIVE_PROCESSES
 
 ```text
-██████████████████████████████████████████
-  BUILDING   → intelligent AI systems that
-              automate repetitive work
-  EXPLORING  → AI Agents · Multi-Agent Systems
-              Local LLMs · Robotics · Automation
-  DEBUGGING  → Windows kernel-level driver issues
-              Selenium / GeckoDriver automation
-██████████████████████████████████████████
+██████████████████████████████████████████████████
+  PID 001  →  Building intelligent AI systems that
+              automate repetitive human work
+  PID 002  →  Exploring multi-agent architectures
+              & local LLM deployments
+  PID 003  →  Reverse-engineering Windows driver /
+              kernel-level input issues
+  PID 004  →  Automating browser workflows with
+              Selenium + GeckoDriver
+██████████████████████████████████████████████████
 ```
 
 ---
 
-## 📡 `> featured_signals`
+## `0x04` // DEPLOYED_PAYLOADS
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**[installify](https://github.com/adityadand/installify)**
-Automated Windows software installer with a modern GUI — pick from 100+ apps, and it handles the rest.
+**⟶ [installify](https://github.com/adityadand/installify)**
+Automated Windows software installer w/ GUI. 100+ apps, zero manual clicking.
 `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**[twitter_scripts](https://github.com/adityadand/twitter_scripts)**
-Ongoing collection of scripts for X/Twitter automation.
+**⟶ [twitter_scripts](https://github.com/adityadand/twitter_scripts)**
+Growing arsenal of X/Twitter automation scripts.
 `Python`
 
 </td>
@@ -91,15 +127,15 @@ Ongoing collection of scripts for X/Twitter automation.
 <tr>
 <td width="50%" valign="top">
 
-**[muos](https://github.com/adityadand/muos)**
-Multi-usability operating system experiment.
+**⟶ [muos](https://github.com/adityadand/muos)**
+Experimental multi-usability operating system.
 `VB.NET`
 
 </td>
 <td width="50%" valign="top">
 
-**[batchfiles](https://github.com/adityadand/batchfiles)**
-Collection of `.bat` scripts for Windows system tasks & recovery automation.
+**⟶ [batchfiles](https://github.com/adityadand/batchfiles)**
+Windows `.bat` arsenal for system recovery & automation.
 `Batchfile`
 
 </td>
@@ -108,64 +144,67 @@ Collection of `.bat` scripts for Windows system tasks & recovery automation.
 
 ---
 
-## 📊 `> system_stats`
+## `0x05` // TELEMETRY
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adityadand&show_icons=true&hide_border=true&theme=synthwave&bg_color=0D0221&title_color=FF00E5&icon_color=00F0FF&text_color=E0E0FF" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadand&layout=compact&hide_border=true&theme=synthwave&bg_color=0D0221&title_color=FF00E5&text_color=E0E0FF" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adityadand&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF9C&icon_color=FF00E5&text_color=E0FFE0" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadand&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF9C&text_color=E0FFE0" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityadand&hide_border=true&theme=highcontrast&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" />
+  <img src="https://streak-stats.demolab.com?user=adityadand&hide_border=true&background=000000&ring=00FF9C&fire=FF00E5&currStreakLabel=00FF9C&sideLabels=E0FFE0&currStreakNum=E0FFE0&sideNums=E0FFE0&dates=6b6b6b" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadand&theme=react-dark&bg_color=0D0221&color=00F0FF&line=FF00E5&point=FFD500" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadand&theme=react-dark&bg_color=000000&color=00FF9C&line=FF00E5&point=FFEA00&area=true&area_color=00FF9C" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityadand&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15" />
 </p>
 
 ---
 
-## 💻 `> terminal`
+## `0x06` // TERMINAL
 
 ```bash
-$ whoami
-Aditya Dand
+root@ghost:~$ whoami
+Aditya Dand — AI Engineer / Automation Architect
 
-$ current_focus
-> AI Agents
-> Automation
-> Local LLMs
-> Windows System Tooling
-> Open Source
-
-$ status
-ONLINE
-
-$ next_mission
+root@ghost:~$ cat mission.txt
 Build AI that people actually use.
+Automate everything that doesn't need a human.
+
+root@ghost:~$ ./run_status.sh
+[OK] ONLINE
+[OK] SHIPPING
+[OK] NO SIGNAL LOST
+
+root@ghost:~$ exit
+connection intentionally not closed_
 ```
 
 ---
 
 <div align="center">
 
-## 🌐 `> uplink`
+## `0x07` // UPLINK
 
 <a href="https://www.linkedin.com/in/adityadand/">
-  <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" />
 </a>
 <a href="https://x.com/dandaditya">
-  <img src="https://img.shields.io/badge/X-FF00E5?style=for-the-badge&logo=x&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/X__COM-FF00E5?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000" />
 </a>
 <a href="https://github.com/adityadand">
-  <img src="https://img.shields.io/badge/GitHub-FFD500?style=for-the-badge&logo=github&logoColor=0D0221&labelColor=0D0221" />
+  <img src="https://img.shields.io/badge/GITHUB-FFEA00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" />
 </a>
 
----
+<br/><br/>
 
-### 「 BUILD · LEARN · REPEAT 」
+### 「 BUILD · BREAK · REBUILD · SHIP 」
 *"The future belongs to those who keep shipping."*
 
-![Neon Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Neon Divider](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer)
 
 </div>
