@@ -157,9 +157,7 @@ Windows `.bat` arsenal for system recovery & automation.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityadand&theme=react-dark&bg_color=000000&color=00FF9C&line=FF00E5&point=FFEA00&area=true&area_color=00FF9C" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityadand&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15" />
-</p>
+
 
 ---
 
