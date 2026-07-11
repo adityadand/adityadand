@@ -8,7 +8,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=adityadand&color=00ff9c&style=flat-square&label=INTRUSIONS+DETECTED)
 ![Signal](https://img.shields.io/badge/SIGNAL-STABLE-ff00e5?style=flat-square)
-![Repos](https://img.shields.io/github/repos/adityadand?style=flat-square&color=00d9ff&label=ARSENAL)
+
 
 </div>
 
